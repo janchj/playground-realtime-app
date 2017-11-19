@@ -1,0 +1,99 @@
+2017-10-30T13:44:39.697129000 40.028007s notice: Recursively removing directory /Users/DEV/Desktop/playground-realtime-app/rethinkdb_data/tmp
+2017-10-30T13:44:39.699002000 40.029874s notice: Initializing directory /Users/DEV/Desktop/playground-realtime-app/rethinkdb_data
+2017-10-30T13:44:39.699103000 40.029970s info: Creating a default database for your convenience. (This is because you ran 'rethinkdb' without 'create', 'serve', or '--join', and the directory '/Users/DEV/Desktop/playground-realtime-app/rethinkdb_data' did not already exist or is empty.)
+2017-10-30T13:44:39.699128000 40.029994s notice: Running rethinkdb 2.3.6 (CLANG 8.1.0 (clang-802.0.42))...
+2017-10-30T13:44:39.706553000 40.037420s notice: Running on Darwin 16.7.0 x86_64
+2017-10-30T13:44:39.706593000 40.037460s notice: Loading data from directory /Users/DEV/Desktop/playground-realtime-app/rethinkdb_data
+2017-10-30T13:44:39.827177000 40.158044s info: Automatically using cache size of 3010 MB
+2017-10-30T13:44:39.827583000 40.158450s notice: Listening for intracluster connections on port 29015
+2017-10-30T13:44:39.828828000 40.159695s notice: Listening for client driver connections on port 28015
+2017-10-30T13:44:39.828909000 40.159776s notice: Listening for administrative HTTP connections on port 8080
+2017-10-30T13:44:39.828911000 40.159777s notice: Listening on cluster addresses: 127.0.0.1, ::1
+2017-10-30T13:44:39.828913000 40.159779s notice: Listening on driver addresses: 127.0.0.1, ::1
+2017-10-30T13:44:39.828915000 40.159781s notice: Listening on http addresses: 127.0.0.1, ::1
+2017-10-30T13:44:39.828917000 40.159784s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2017-10-30T13:44:39.828920000 40.159787s notice: Server ready, "Developments_MacBook_Pro_3_local_ekh" baf82aa9-9d39-4780-a551-2f93e584a090
+2017-10-30T13:46:45.370054000 165.705737s info: Table c82821d7-6125-45c5-9afa-f7f6dd32949a: Starting a new Raft election for term 1.
+2017-10-30T13:46:45.370253000 165.705936s info: Table c82821d7-6125-45c5-9afa-f7f6dd32949a: Added replica on this server.
+2017-10-30T13:46:45.393303000 165.728986s info: Table c82821d7-6125-45c5-9afa-f7f6dd32949a: This server is Raft leader for term 1. Latest log index is 0.
+2017-10-30T13:47:24.353450000 204.690648s warn: Received invalid clustering header from 127.0.0.1:51116, closing connection -- something might be connecting to the wrong port.
+2017-10-30T13:51:13.682431000 434.028436s info: Table 5fa88d2d-a201-4c70-89c9-79208cede38a: Starting a new Raft election for term 1.
+2017-10-30T13:51:13.682700000 434.028705s info: Table 5fa88d2d-a201-4c70-89c9-79208cede38a: Added replica on this server.
+2017-10-30T13:51:13.706239000 434.052244s info: Table 5fa88d2d-a201-4c70-89c9-79208cede38a: This server is Raft leader for term 1. Latest log index is 0.
+2017-10-30T22:56:47.601074000 17252.674605s notice: Removing file /Users/DEV/Desktop/playground-realtime-app/rethinkdb_data/5fa88d2d-a201-4c70-89c9-79208cede38a
+2017-10-30T22:56:47.601084000 17252.674612s info: Table 5fa88d2d-a201-4c70-89c9-79208cede38a: Deleted the table.
+2017-10-30T22:56:58.131252000 17263.205194s info: Table 07d767c9-69df-47f3-b915-ef0b16bed7c9: Starting a new Raft election for term 1.
+2017-10-30T22:56:58.131382000 17263.205323s info: Table 07d767c9-69df-47f3-b915-ef0b16bed7c9: Added replica on this server.
+2017-10-30T22:56:58.152176000 17263.226118s info: Table 07d767c9-69df-47f3-b915-ef0b16bed7c9: This server is Raft leader for term 1. Latest log index is 0.
+2017-11-01T10:44:38.340238000 57947.739996s notice: Removing file /Users/DEV/Desktop/playground-realtime-app/rethinkdb_data/07d767c9-69df-47f3-b915-ef0b16bed7c9
+2017-11-01T10:44:38.340248000 57947.740004s info: Table 07d767c9-69df-47f3-b915-ef0b16bed7c9: Deleted the table.
+2017-11-01T10:45:00.932327000 57970.332980s info: Table 182cbb79-e4f8-4530-92a3-831249179c11: Starting a new Raft election for term 1.
+2017-11-01T10:45:00.932981000 57970.333634s info: Table 182cbb79-e4f8-4530-92a3-831249179c11: Added replica on this server.
+2017-11-01T10:45:00.958507000 57970.359160s info: Table 182cbb79-e4f8-4530-92a3-831249179c11: This server is Raft leader for term 1. Latest log index is 0.
+2017-11-02T13:17:49.816871000 40.122797s notice: Running rethinkdb 2.3.6 (CLANG 8.1.0 (clang-802.0.42))...
+2017-11-02T13:17:49.853749000 40.159672s notice: Running on Darwin 16.7.0 x86_64
+2017-11-02T13:17:49.853800000 40.159721s notice: Loading data from directory /Users/DEV/Desktop/playground-realtime-app/rethinkdb_data
+2017-11-02T13:17:49.929592000 40.235514s info: Automatically using cache size of 100 MB
+2017-11-02T13:17:49.929599000 40.235520s warn: Cache size does not leave much memory for server and query overhead (available memory: 339 MB).
+2017-11-02T13:17:49.929607000 40.235528s warn: Cache size is very low and may impact performance.
+2017-11-02T13:17:49.930642000 40.236564s notice: Listening for intracluster connections on port 29015
+2017-11-02T13:17:50.000412000 40.306334s notice: Listening for client driver connections on port 28015
+2017-11-02T13:17:50.000747000 40.306669s notice: Listening for administrative HTTP connections on port 8080
+2017-11-02T13:17:50.000751000 40.306672s notice: Listening on cluster addresses: 127.0.0.1, ::1
+2017-11-02T13:17:50.000753000 40.306674s notice: Listening on driver addresses: 127.0.0.1, ::1
+2017-11-02T13:17:50.000755000 40.306676s notice: Listening on http addresses: 127.0.0.1, ::1
+2017-11-02T13:17:50.000756000 40.306678s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2017-11-02T13:17:50.000767000 40.306688s notice: Server ready, "Developments_MacBook_Pro_3_local_ekh" baf82aa9-9d39-4780-a551-2f93e584a090
+2017-11-02T13:17:51.399679000 41.705670s info: Table c82821d7-6125-45c5-9afa-f7f6dd32949a: Starting a new Raft election for term 2.
+2017-11-02T13:17:51.423098000 41.729089s info: Table c82821d7-6125-45c5-9afa-f7f6dd32949a: This server is Raft leader for term 2. Latest log index is 2.
+2017-11-02T13:17:51.954358000 42.260349s info: Table 182cbb79-e4f8-4530-92a3-831249179c11: Starting a new Raft election for term 2.
+2017-11-02T13:17:52.025103000 42.331094s info: Table 182cbb79-e4f8-4530-92a3-831249179c11: This server is Raft leader for term 2. Latest log index is 2.
+2017-11-02T13:35:23.229772000 1093.589464s info: Table 403134e6-b01a-4ca4-84b3-1a7659d7ec3e: Starting a new Raft election for term 1.
+2017-11-02T13:35:23.232593000 1093.592283s info: Table 403134e6-b01a-4ca4-84b3-1a7659d7ec3e: Added replica on this server.
+2017-11-02T13:35:23.263701000 1093.623390s info: Table 403134e6-b01a-4ca4-84b3-1a7659d7ec3e: This server is Raft leader for term 1. Latest log index is 0.
+2017-11-09T20:48:00.095664000 0.027049s notice: Running rethinkdb 2.3.6 (CLANG 8.1.0 (clang-802.0.42))...
+2017-11-09T20:48:00.101715000 0.033096s notice: Running on Darwin 16.7.0 x86_64
+2017-11-09T20:48:00.101764000 0.033145s notice: Loading data from directory /Users/DEV/Desktop/Jan/Projects/playground-realtime-app/rethinkdb_data
+2017-11-09T20:48:00.134489000 0.065869s info: Automatically using cache size of 3601 MB
+2017-11-09T20:48:00.134847000 0.066228s notice: Listening for intracluster connections on port 29015
+2017-11-09T20:48:00.177039000 0.108420s notice: Listening for client driver connections on port 28015
+2017-11-09T20:48:00.177135000 0.108515s notice: Listening for administrative HTTP connections on port 8080
+2017-11-09T20:48:00.177232000 0.108612s notice: Listening on cluster addresses: 127.0.0.1, ::1
+2017-11-09T20:48:00.177234000 0.108614s notice: Listening on driver addresses: 127.0.0.1, ::1
+2017-11-09T20:48:00.177235000 0.108615s notice: Listening on http addresses: 127.0.0.1, ::1
+2017-11-09T20:48:00.177237000 0.108617s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2017-11-09T20:48:00.177238000 0.108618s notice: Server ready, "Developments_MacBook_Pro_3_local_ekh" baf82aa9-9d39-4780-a551-2f93e584a090
+2017-11-09T20:48:01.459341000 1.390722s info: Table 403134e6-b01a-4ca4-84b3-1a7659d7ec3e: Starting a new Raft election for term 2.
+2017-11-09T20:48:01.482039000 1.413419s info: Table 403134e6-b01a-4ca4-84b3-1a7659d7ec3e: This server is Raft leader for term 2. Latest log index is 2.
+2017-11-09T20:48:01.586238000 1.517690s info: Table c82821d7-6125-45c5-9afa-f7f6dd32949a: Starting a new Raft election for term 3.
+2017-11-09T20:48:01.610650000 1.542102s info: Table c82821d7-6125-45c5-9afa-f7f6dd32949a: This server is Raft leader for term 3. Latest log index is 5.
+2017-11-09T20:48:01.662813000 1.594265s info: Table 182cbb79-e4f8-4530-92a3-831249179c11: Starting a new Raft election for term 3.
+2017-11-09T20:48:01.685864000 1.617316s info: Table 182cbb79-e4f8-4530-92a3-831249179c11: This server is Raft leader for term 3. Latest log index is 5.
+2017-11-09T21:04:58.905849000 1018.875564s notice: Removing file /Users/DEV/Desktop/Jan/Projects/playground-realtime-app/rethinkdb_data/403134e6-b01a-4ca4-84b3-1a7659d7ec3e
+2017-11-09T21:04:58.905860000 1018.875574s info: Table 403134e6-b01a-4ca4-84b3-1a7659d7ec3e: Deleted the table.
+2017-11-09T21:05:07.627278000 1027.597346s info: Table f5ef0e1c-24c8-4cad-9e24-72cf1955e901: Starting a new Raft election for term 1.
+2017-11-09T21:05:07.627399000 1027.597468s info: Table f5ef0e1c-24c8-4cad-9e24-72cf1955e901: Added replica on this server.
+2017-11-09T21:05:07.649061000 1027.619130s info: Table f5ef0e1c-24c8-4cad-9e24-72cf1955e901: This server is Raft leader for term 1. Latest log index is 0.
+2017-11-09T21:13:48.628879000 1548.618351s notice: Removing file /Users/DEV/Desktop/Jan/Projects/playground-realtime-app/rethinkdb_data/f5ef0e1c-24c8-4cad-9e24-72cf1955e901
+2017-11-09T21:13:48.628888000 1548.618359s info: Table f5ef0e1c-24c8-4cad-9e24-72cf1955e901: Deleted the table.
+2017-11-09T21:13:53.941587000 1553.931264s info: Table 1642d3bb-a75c-458b-8d73-43d72c7a433c: Starting a new Raft election for term 1.
+2017-11-09T21:13:53.942006000 1553.931683s info: Table 1642d3bb-a75c-458b-8d73-43d72c7a433c: Added replica on this server.
+2017-11-09T21:13:53.960827000 1553.950504s info: Table 1642d3bb-a75c-458b-8d73-43d72c7a433c: This server is Raft leader for term 1. Latest log index is 0.
+2017-11-19T20:59:36.624774000 0.046479s notice: Running rethinkdb 2.3.6 (CLANG 8.1.0 (clang-802.0.42))...
+2017-11-19T20:59:36.631633000 0.053333s notice: Running on Darwin 17.2.0 x86_64
+2017-11-19T20:59:36.631696000 0.053395s notice: Loading data from directory /Users/DEV/Desktop/Jan/Projects/playground-realtime-app/rethinkdb_data
+2017-11-19T20:59:36.672292000 0.093993s info: Automatically using cache size of 1255 MB
+2017-11-19T20:59:36.672868000 0.094569s notice: Listening for intracluster connections on port 29015
+2017-11-19T20:59:36.727854000 0.149557s notice: Listening for client driver connections on port 28015
+2017-11-19T20:59:36.727943000 0.149646s notice: Listening for administrative HTTP connections on port 8080
+2017-11-19T20:59:36.728037000 0.149740s notice: Listening on cluster addresses: 127.0.0.1, ::1
+2017-11-19T20:59:36.728039000 0.149742s notice: Listening on driver addresses: 127.0.0.1, ::1
+2017-11-19T20:59:36.728040000 0.149743s notice: Listening on http addresses: 127.0.0.1, ::1
+2017-11-19T20:59:36.728042000 0.149744s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2017-11-19T20:59:36.728043000 0.149746s notice: Server ready, "Developments_MacBook_Pro_3_local_ekh" baf82aa9-9d39-4780-a551-2f93e584a090
+2017-11-19T20:59:37.803179000 1.224918s info: Table c82821d7-6125-45c5-9afa-f7f6dd32949a: Starting a new Raft election for term 4.
+2017-11-19T20:59:37.837176000 1.258916s info: Table c82821d7-6125-45c5-9afa-f7f6dd32949a: This server is Raft leader for term 4. Latest log index is 9.
+2017-11-19T20:59:38.372065000 1.793823s info: Table 1642d3bb-a75c-458b-8d73-43d72c7a433c: Starting a new Raft election for term 2.
+2017-11-19T20:59:38.397347000 1.819105s info: Table 182cbb79-e4f8-4530-92a3-831249179c11: Starting a new Raft election for term 4.
+2017-11-19T20:59:38.399496000 1.821255s info: Table 1642d3bb-a75c-458b-8d73-43d72c7a433c: This server is Raft leader for term 2. Latest log index is 2.
+2017-11-19T20:59:38.422200000 1.843959s info: Table 182cbb79-e4f8-4530-92a3-831249179c11: This server is Raft leader for term 4. Latest log index is 8.
